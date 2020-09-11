@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">HW2.2.2</string>
+    <string name="menuSettings">Настройки</string>
+    <string name="menuNotebook">Записная книжка</string>
+    <string name="toastNotebook">Открыть записную книжку</string>
+    <string name="btnSave">Сохранить</string>
+    <string name="toastDataSaved">Данные сохранены</string>
+    <string name="menuTaskTime">Сроки задачи</string>
+    <string name="toastTaskTime">Открыть календарь для выбора времени задачи</string>
+    <string name="chooseStartDate">Дата-время старта задачи:</string>
+    <string name="chooseEndDate">Дата-время окончания задачи:</string>
+    <string name="btnOK">OK</string>
+    <string name="txtStartDate">Старт: %s</string>
+    <string name="txtEndDate">Окончание: %s</string>
+    <string name="toastError">Ошибка</string>
+    <string name="toastStartEnd">Старт: %s, окончаниe: %s</string>
+    <string name="menuDeliver">Доставка</string>
+    <string name="toastDeliver">Открыть страницу доставки</string>
+    <string name="showAddress">Показать адрес</string>
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+    <string name="menuPayment">Оплата</string>
+    <string name="toastPayment">Открыть страницу оплаты</string>
+    <string name="inputMoney">Ввод денег</string>
+    <string name="inputInfo">Информация об оплате</string>
+    <string name="chkBxBankCard">С банковской карты</string>
+    <string name="chkBxMobilePhone">С мобильного телефона</string>
+    <string name="chkBxCashAddress">Наличными по адресу</string>
+    <string name="toastPaymentBankCard">Оплата банковской картой подтверждена</string>
+    <string name="toastPaymentMobilePhone">Оплата с мобильного телефона подтверждена</string>
+    <string name="toastPaymentCashAddress">Оплата наличными по адресу подтверждена</string>
+</resources>
